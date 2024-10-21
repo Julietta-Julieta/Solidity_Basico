@@ -17,6 +17,10 @@ contract array {
         return arr2;
     }
 
+
+
+    
+
     // colocar un nuevo elemento en el array
     function push(uint256 _i) public {
         arr2.push(_i);
